@@ -1,0 +1,9 @@
+.customDiv {
+  width: 80vw;
+  padding: 2rem;
+  border: thin solid black;
+  text-align: center;
+  margin: 1rem auto;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
